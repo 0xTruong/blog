@@ -22,7 +22,7 @@ noClasses = false
 unsafe = true
 
 [params]
-author = "Truong Vu Ngoc"
+author = "0xTruong"
 # license = '<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA-4.0</a>'
 description = "Truong Vu Ngoc's personal website"
 keywords = "blog,developer,personal"
@@ -194,7 +194,7 @@ url = "about/"
 [[languages.en.menu.main]]
 name = "Blog"
 weight = 2
-url = "posts/"
+url = "blog/"
 
 [[languages.en.menu.main]]
 name = "Projects"
