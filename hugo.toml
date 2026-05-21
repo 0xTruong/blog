@@ -1,4 +1,4 @@
-baseurl = "https://blog.0xtruong.com/"
+baseurl = "https://0xtruong.com/"
 title = "Truong Vu Ngoc"
 theme = "hugo-coder"
 languageCode = "en-us"
