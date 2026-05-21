@@ -1,5 +1,5 @@
 baseurl = "https://0xtruong.com/"
-title = "Truong Vu Ngoc"
+title = "0xTruong"
 theme = "hugo-coder"
 languageCode = "en-us"
 defaultContentLanguage = "en"
@@ -26,8 +26,8 @@ author = "0xTruong"
 # license = '<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA-4.0</a>'
 description = "Truong Vu Ngoc's personal website"
 keywords = "blog,developer,personal"
-info = ["Freelancer", "TBA"]
-avatarURL = "images/avatar.jpg"
+info = ["Truong Vu Ngoc", "Normal Guy"]
+avatarURL = "/images/avatar.png"
 #gravatar = "john.doe@example.com"
 dateFormat = "January 2, 2006"
 since = 2019
