@@ -28,6 +28,7 @@ description = "Truong Vu Ngoc's personal website"
 keywords = "blog,developer,personal"
 info = ["Just a Normal Guy", "Freelancer"]
 avatarURL = "/images/my-avatar.png"
+hideCredits = true
 #gravatar = "john.doe@example.com"
 dateFormat = "January 2, 2006"
 since = 2025
