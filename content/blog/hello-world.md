@@ -1,16 +1,17 @@
-+++ 
++++
 draft = false
 date = 2026-05-21T18:23:09+07:00
-title = ""
+title = "Hello World"
 description = ""
 slug = ""
-authors = []
-tags = []
-categories = []
+authors = \[]
+tags = \[]
+categories = \[]
 externalLink = ""
-series = []
+series = \[]
 +++
 
 # Hello world
 
 My first post.
+
