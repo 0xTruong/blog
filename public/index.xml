@@ -15,5 +15,19 @@
       <guid>http://localhost:1313/blog/hello-world/</guid>
       <description>&lt;p&gt;My first post.&lt;/p&gt;</description>
     </item>
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;h1 id=&#34;about-me&#34;&gt;&#xD;&#xA;  About Me&#xD;&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#about-me&#34;&gt;&#xD;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xD;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xD;&#xA;  &lt;/a&gt;&#xD;&#xA;&lt;/h1&gt;&#xD;&#xA;&lt;p&gt;Hi, I&amp;rsquo;m 0xTruong.&lt;/p&gt;&#xA;&lt;p&gt;This is my personal corner of the internet.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Start Here</title>
+      <link>http://localhost:1313/start-here/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/start-here/</guid>
+      <description>&lt;h1 id=&#34;start-here&#34;&gt;&#xD;&#xA;  Start Here&#xD;&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#start-here&#34;&gt;&#xD;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xD;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xD;&#xA;  &lt;/a&gt;&#xD;&#xA;&lt;/h1&gt;&#xD;&#xA;&lt;p&gt;If you&amp;rsquo;re new here, this page is the best place to begin.&lt;/p&gt;&#xA;&lt;p&gt;This site is a collection of essays, notes, and long-form thinking.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;about-me&#34;&gt;&#xD;&#xA;  About Me&#xD;&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#about-me&#34;&gt;&#xD;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xD;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xD;&#xA;  &lt;/a&gt;&#xD;&#xA;&lt;/h2&gt;&#xD;&#xA;&lt;p&gt;If you want to know who I am:&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://localhost:1313/about/&#34; &gt;Read my About page&lt;/a&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;writing&#34;&gt;&#xD;&#xA;  Writing&#xD;&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#writing&#34;&gt;&#xD;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xD;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xD;&#xA;  &lt;/a&gt;&#xD;&#xA;&lt;/h2&gt;&#xD;&#xA;&lt;p&gt;Why I write:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Coming soon&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Favorite essays:&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>
