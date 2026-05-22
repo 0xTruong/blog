@@ -1,9 +1,9 @@
 ---
-title: "About"
+title: "About me"
 slug: "about"
 menu:
   main:
-    name: "About"
+    name: "About me"
     weight: 3
 ---
 
