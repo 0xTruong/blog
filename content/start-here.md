@@ -16,7 +16,8 @@ Nếu bạn muốn biết thêm tôi là ai: [Đọc ở đây]({{< ref "about.m
 ---
 ## Viết Lách
 
-Nơi tôi viết về các hồi ký, tuỳ bút của bản thân tôi
+Tôi thích viết vớ va vớ vẩn, để khi nào tôi rảnh thì đọc lại và vì lúc đó đúng thật là mình tào lao
+
 - [Tại sao tôi thích viết hồi ký và tuỳ bút thay vì nhật ký]({{< ref "tai-sao-toi-thich-viet-hoi-ky-va-tuy-but.md" >}})
 
 ---
