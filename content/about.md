@@ -10,20 +10,20 @@ menu:
 Tại sao lại là **0xTruong** ?
 
 Nhân tiện: **"0x" không phải "ông xã".**  
-Đó là một minh chúng cho việc mình đam mê với blockchain.  
+Đó là một minh chứng hùng hồn và mạnh mẽ cho việc tôi đam mê với blockchain.  
 
 Nếu từng đi qua thế giới crypto, bạn sẽ thấy nhiều địa chỉ ví bắt đầu bằng **0x** — một tiền tố quen thuộc của hexadecimal, và cũng là hình ảnh rất đặc trưng trong hệ sinh thái Ethereum.  
 
-Mình thấy nó đủ technical, đủ nerdy, và oddly memorable.  
+Tôi thấy nó đủ technical, đủ nerdy, và oddly memorable.  
 **Thế là 0xTruong ra đời.**
 
 ----
 
-Tôi luôn bị thu hút bởi những thứ đơn giản, đúng với bản chất cốt lõi, nhưng có thể vận hành tốt trong thời gian dài.
+Tôi luôn bị thu hút bởi những thứ **đơn giản**, đúng với **bản chất cốt lõi**, nhưng có thể vận hành tốt trong **thời gian dài**.
 
 Có lẽ vì vậy mà mình quan tâm đến Linux, static websites, local-first tools, backup tử tế, workflow gọn gàng, và những hệ thống đủ dễ hiểu để có thể thực sự tin tưởng.
 
-Mình cũng có một sự ám ảnh nhất định với bảo mật, sự an toàn, và việc lưu trữ thông tin cho tử tế. Không theo kiểu ám ảnh cực đoan, mà theo kiểu tin rằng những thứ quan trọng thì nên được kiểm soát, hiểu rõ, và bảo vệ cẩn thận.
+Mình cũng có một sự **ám ảnh nhất định với bảo mật**, sự an toàn, và việc lưu trữ thông tin cho tử tế. Không theo kiểu ám ảnh cực đoan, mà theo kiểu tin rằng những thứ quan trọng thì nên được kiểm soát, hiểu rõ, và bảo vệ cẩn thận.
 
 Mình không quá hứng thú với việc chạy theo mọi thứ mới chỉ vì chúng mới, được bàn tán sôi nổi. Cũng không hợp lắm với nhịp độ quá nhanh của mạng xã hội.
 
@@ -54,6 +54,8 @@ Chỉ vì mình thích những hệ thống hoạt động êm, đáng tin, và 
 ---
 
 Ngoài công nghệ, mình cũng quan tâm đến đầu tư dài hạn, tư duy hệ thống, học tập, và cách con người ra quyết định.
+
 Có những giai đoạn mình bị cuốn vào việc tìm công cụ tốt hơn.
 Sau này mình nhận ra đôi khi vấn đề không nằm ở công cụ, mà ở hệ thống đằng sau — hoặc chính cách mình vận hành bản thân.
+
 Có lẽ blog này cũng sẽ phản ánh quá trình đó.
