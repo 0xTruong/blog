@@ -9,41 +9,38 @@ menu:
 
 # Start Here
 
-If you're new here, this page is the best place to begin.
-
-This site is a collection of essays, notes, and long-form thinking.
+Đây là nơi tổng hợp và liệt kê những bài viết quan trọng trong Blog
 
 ---
+## Về Tôi
 
-## About Me
-
-If you want to know who I am:
-
-[Read my About page]({{< ref "about.md" >}})
+Nếu bạn muốn biết thêm tôi là ai:
+[Đọc About me]({{< ref "about.md" >}})
 
 ---
+## Viết Lách
 
-## Writing
+Nơi tôi viết về các hồi ký, tuỳ bút của bản thân tôi
 
-Why I write:
+Tại sao tôi viết blog
 
 - Coming soon
 
-Favorite essays:
+Những bài viết tôi thấy tâm đắc nhất
 
 - Coming soon
 
 ---
 
-## Investing
+## Đầu Tư
 
-Thoughts on business, investing, and capital allocation:
+Kiến thức, kinh nghiệm và đúc kết của bản thân xoay quanh đến việc đầu tư, phần bổ vốn, lối sống tài chính
 
 - Coming soon
 
 ---
 
-## Linux / Systems
+## Công Nghệ
 
 Tools, workflows, backups, Linux:
 
@@ -51,8 +48,8 @@ Tools, workflows, backups, Linux:
 
 ---
 
-## Philosophy
+## Triết Lý Sống
 
-Long-term thinking, systems, discipline:
+Tư duy dài hạn, xây dựng hệ thống, và kỷ luật bền bỉ
 
 - Coming soon
