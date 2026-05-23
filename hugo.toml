@@ -192,7 +192,7 @@ author = "authors"
 name = "Email"
 icon = "fa-solid fa-envelope fa-2x"
 weight = 1
-url = "mailto:0xtruong@proton.me"
+url = "mailto:contact@0xtruong.com"
 
 [languages.en]
 languageName = ":uk:"
