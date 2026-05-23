@@ -189,16 +189,22 @@ author = "authors"
 #type = "application/rss+xml"
 
 [[params.social]]
+name = "Email"
+icon = "fa-solid fa-envelope fa-2x"
+weight = 1
+url = "mailto:contact@0xtruong.com"
+
+[[params.social]]
 name = "Signal"
 icon = "fa-brands fa-signal-messenger fa-2x"
 weight = 1
 url = "https://signal.me/#eu/p-AUkuC1-Ixmh6GQ7pmHHAMOAEXlnBw1RSltnRw-gMnY7JgUHPRKKbSJnihjDoS2"
 
 [[params.social]]
-name = "Email"
-icon = "fa-solid fa-envelope fa-2x"
-weight = 1
-url = "mailto:contact@0xtruong.com"
+name = "Ethereum"
+icon = "fa-brands fa-ethereum fa-2x"
+weight = 2
+url = "https://etherscan.io/name-lookup-search?id=0xtruong.eth"
 
 [languages.en]
 languageName = ":uk:"
