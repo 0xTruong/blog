@@ -7,7 +7,17 @@ menu:
     weight: 3
 ---
 
-Tôi là 0xTruong.
+Tại sao lại là **0xTruong** ?
+
+Nhân tiện: **"0x" không phải "ông xã".**  
+Đó là một minh chúng cho việc mình đam mê với blockchain.  
+
+Nếu từng đi qua thế giới crypto, bạn sẽ thấy nhiều địa chỉ ví bắt đầu bằng **0x** — một tiền tố quen thuộc của hexadecimal, và cũng là hình ảnh rất đặc trưng trong hệ sinh thái Ethereum.  
+
+Mình thấy nó đủ technical, đủ nerdy, và oddly memorable.  
+**Thế là 0xTruong ra đời.**
+
+----
 
 Tôi luôn bị thu hút bởi những thứ đơn giản, đúng với bản chất cốt lõi, nhưng có thể vận hành tốt trong thời gian dài.
 
@@ -40,6 +50,8 @@ Có lẽ vì vậy mà mình dành khá nhiều sự chú ý cho những chi ti�
 
 Không phải vì ám ảnh tối ưu.
 Chỉ vì mình thích những hệ thống hoạt động êm, đáng tin, và không tạo ra thêm hỗn loạn.
+
+---
 
 Ngoài công nghệ, mình cũng quan tâm đến đầu tư dài hạn, tư duy hệ thống, học tập, và cách con người ra quyết định.
 Có những giai đoạn mình bị cuốn vào việc tìm công cụ tốt hơn.
