@@ -14,12 +14,16 @@ pagerSize = 6
 # shortname = "yourdiscussshortname"
 
 [markup]
-[markup.highlight]
-noClasses = false
+  [markup.highlight]
+    noClasses = false
 
-[markup.goldmark]
-[markup.goldmark.renderer]
-unsafe = true
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+    [markup.goldmark.parser]
+      autoHeadingID = true
+      anchorURL = ""
 
 [params]
 author = "0xTruong"

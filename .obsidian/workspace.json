@@ -182,6 +182,11 @@
   },
   "active": "3444aff8b23524e0",
   "lastOpenFiles": [
+    "public/js/coder.js",
+    "public/css/coder-dark.css",
+    "public/css/coder-dark.css.map",
+    "public/css/coder.css",
+    "public/css/coder.css.map",
     "content/about.md",
     "content/start-here.md",
     "content/posts/hello-world.md"

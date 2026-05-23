@@ -6,9 +6,6 @@ menu:
     name: "Start Here"
     weight: 1
 ---
-
-# Start Here
-
 Đây là nơi tổng hợp và liệt kê những bài viết quan trọng trong Blog
 
 ---
