@@ -1,9 +1,9 @@
 ---
-title: "Start Here"
+title: "Bắt Đầu Đọc"
 slug: "start-here"
 menu:
   main:
-    name: "Start Here"
+    name: "Bắt Đầu Đọc"
     weight: 1
 ---
 Đây là nơi tổng hợp và liệt kê những bài viết quan trọng trong Blog

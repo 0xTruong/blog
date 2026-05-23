@@ -1,7 +1,7 @@
 ---
-title: "Posts"
+title: "Bài Viết"
 menu:
   main:
-    name: "Posts"
+    name: "Bài Viết"
     weight: 2
 ---

@@ -1,13 +1,11 @@
 ---
-title: "About me"
+title: "Về Bản Thân"
 slug: "about"
 menu:
   main:
-    name: "About me"
+    name: "Về Tôi"
     weight: 3
 ---
-
-# Về Bản Thân
 
 Tôi là 0xTruong.
 

@@ -30,7 +30,7 @@ author = "0xTruong"
 # license = '<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA-4.0</a>'
 description = "Truong Vu Ngoc's personal website"
 keywords = "blog,developer,personal"
-info = ["Just a Normal Guy", "Freelancer"]
+info = "<em style='opacity:0.55;'>“Không sợ vạn nhất, chỉ sợ nhất vạn.”</em>"
 avatarURL = "/images/my-avatar.png"
 hideCredits = true
 #gravatar = "john.doe@example.com"
