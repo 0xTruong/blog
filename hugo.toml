@@ -181,6 +181,12 @@ author = "authors"
 #url = "https://medium.com/@johndoe"
 
 #[[params.social]]
+#name = "Ethereum"
+#icon = "fa-brands fa-ethereum fa-2x"
+#weight = 2
+#url = "https://etherscan.io/name-lookup-search?id=0xtruong.eth"
+
+#[[params.social]]
 #name = "RSS"
 #icon = "fa-solid fa-rss fa-2x"
 #weight = 6
@@ -199,12 +205,6 @@ name = "Signal"
 icon = "fa-brands fa-signal-messenger fa-2x"
 weight = 1
 url = "https://signal.me/#eu/p-AUkuC1-Ixmh6GQ7pmHHAMOAEXlnBw1RSltnRw-gMnY7JgUHPRKKbSJnihjDoS2"
-
-[[params.social]]
-name = "Ethereum"
-icon = "fa-brands fa-ethereum fa-2x"
-weight = 2
-url = "https://etherscan.io/name-lookup-search?id=0xtruong.eth"
 
 [languages.en]
 languageName = ":uk:"
