@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/start-here.md",
+                "file": "content/posts/tai-sao-toi-thich-viet-hoi-ky-va-tuy-but.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "start-here"
+              "title": "tai-sao-toi-thich-viet-hoi-ky-va-tuy-but"
             }
           }
         ]
@@ -182,8 +182,8 @@
   },
   "active": "3444aff8b23524e0",
   "lastOpenFiles": [
-    "content/posts/tai-sao-toi-thich-viet-hoi-ky-va-tuy-but.md",
     "content/start-here.md",
+    "content/posts/tai-sao-toi-thich-viet-hoi-ky-va-tuy-but.md",
     "content/about.md",
     "public/js/coder.js",
     "public/css/coder-dark.css",

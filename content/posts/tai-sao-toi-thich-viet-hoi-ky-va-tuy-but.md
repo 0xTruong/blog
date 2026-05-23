@@ -26,9 +26,9 @@ Tôi không cần phải có ngày tháng ngay ngắn. Tôi chỉ cần một c�
 Tuỳ bút giống như tôi rút cái khoảnh khắc đó ra khỏi dòng đời, đặt nó lên bàn, nhìn cho kỹ. Nó có quyền ngắn. Nó có quyền chóng vánh. Nó có quyền chỉ là một nét phác họa. Nhưng ít nhất, nó không bị mất.
 
 Còn hồi ký thì khác. Hồi ký giống như tôi đóng đinh.
-Không phải đóng đinh để khoe. Mà để nhớ. Để những địa điểm, con người, biến cố đã đi qua mình không biến thành một đám sương mù trong đầu. Hồi ký cho tôi cái quyền nhấn mạnh: cái này đã từng xảy ra, cái này đã từng quan trọng, cái này đã từng làm mình thành ra mình.
+Không phải đóng đinh để khoe. Mà để nhớ. Để những địa điểm, con người, biến cố đã đi qua mình không biến thành một đám sương mù trong đầu. Hồi ký cho tôi cái quyền nhấn mạnh: cái này đã từng xảy ra, cái này đã từng quan trọng, cái này đã từng làm mình thành ra mình của ngày hôm đó.
 
-Tôi không nghĩ nhật ký nhàm chán. Tôi cũng không nghĩ nó kém hiệu quả. Có khi với nhiều người, nhật ký là cái neo. Chỉ là với tôi, hai thứ kia hợp hơn. Tôi không cần ghi “hôm nay tôi ăn gì”. Tôi cần ghi “hôm nay có cái gì chạm vào tôi”.
+Tôi không nghĩ nhật ký là nhàm chán. Tôi cũng không nghĩ nó kém hiệu quả. Có khi với nhiều người, nhật ký là cái neo. Chỉ là với tôi, hai thứ kia hợp hơn. Tôi không cần ghi “hôm nay tôi ăn gì”. Mà tôi cần ghi “hôm nay có cái gì chạm vào cảm xúc của tôi”.
 
 Như sáng nay.
 Sáng nay, tôi nghe tiếng chuông nhà thờ.
@@ -37,13 +37,12 @@ Nếu tôi viết nhật ký, có thể tôi sẽ ghi: “sáng nghe chuông nh�
 Nhưng vì tôi viết tuỳ bút, tôi có thể mở một file mới. Đặt một cái tiêu đề đại khái: Hố Nai. Viết một lời tựa. Gạch vài điểm quan trọng để khỏi quên. Rồi để đó.
 Tôi không cần hoàn thành ngay. Tôi chỉ cần neo lại. Neo tiếng chuông. Neo cái cảm giác vừa bị kéo về một nơi mình tưởng đã quen đến mức không còn nhìn thấy. Để ngày mai, hoặc một ngày nào đó, tôi quay lại, tôi sẽ còn có cửa mà bước vào.
 
-Và rồi, mỗi ngày tôi thêm một chút. Một cảnh. Một câu. Một ký ức. Một người. Tới lúc nào đó, nó thành một bài hoàn chỉnh mà chính tôi cũng không biết nó sẽ hoàn chỉnh vào ngày nào. Nhưng tôi biết nó đã không bị trôi.
+Và rồi, mỗi ngày tôi thêm một chút. Một cảnh. Một câu. Một ký ức. Một con người. Tới lúc nào đó, nó thành một bài hoàn chỉnh mà chính tôi cũng không biết nó sẽ hoàn chỉnh vào ngày nào. Nhưng tôi biết nó đã không bị trôi.
 
-Tôi viết vì tôi thích viết, đúng.
-Nhưng sâu hơn, tôi viết để chậm lại.
+Tôi viết vì tôi thích viết, ừ đúng là vậy.
+Nhưng suy nghĩ sâu hơn, thì tôi viết... để chậm lại.
 Để chiêm nghiệm.
 Để lắng đọng.
+Để dặn tôi nhớ về những trải nghiệm, từng đau đớn, những lời hứa đã đến với tôi
 Để trân trọng hơn những thứ hay bị đời sống chạy qua như chạy ngang một con hẻm.
-Vì nếu không viết, nhiều thứ sẽ đi qua tôi như tiếng chuông sáng nay: vang một lúc rồi tắt.
-
-Còn tôi thì sẽ sống tiếp, và tưởng như mình đã nghe — mà thật ra là mình đã bỏ lỡ.
+Vì nếu không viết, nhiều thứ sẽ đi qua tôi như tiếng chuông nhà thờ sáng nay: **vang một lúc rồi tắt.**
