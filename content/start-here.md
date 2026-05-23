@@ -11,21 +11,13 @@ menu:
 ---
 ## Về Tôi
 
-Nếu bạn muốn biết thêm tôi là ai:
-[Đọc About me]({{< ref "about.md" >}})
+Nếu bạn muốn biết thêm tôi là ai: [Đọc ở đây]({{< ref "about.md" >}})
 
 ---
 ## Viết Lách
 
 Nơi tôi viết về các hồi ký, tuỳ bút của bản thân tôi
-
-Tại sao tôi viết blog
-
-- Coming soon
-
-Những bài viết tôi thấy tâm đắc nhất
-
-- Coming soon
+- [Tại sao tôi thích viết hồi ký và tuỳ bút thay vì nhật ký]({{< ref "tai-sao-toi-thich-viet-hoi-ky-va-tuy-but.md" >}})
 
 ---
 
