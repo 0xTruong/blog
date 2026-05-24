@@ -195,6 +195,12 @@ author = "authors"
 #type = "application/rss+xml"
 
 [[params.social]]
+name = "Posts"
+icon = "fa-solid fa-book-open fa-2x"
+weight = 1
+url = "/posts/"
+
+[[params.social]]
 name = "Email"
 icon = "fa-solid fa-envelope fa-2x"
 weight = 1
