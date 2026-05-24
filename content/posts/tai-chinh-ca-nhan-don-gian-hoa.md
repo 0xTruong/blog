@@ -147,6 +147,7 @@ Thời gian để thở.
 ---
 <p id="khong-bi-bao-mon"><strong>Không bị bào mòn.</strong></p>
 Đến đoạn này, cuộc sống có lẽ đã bớt chông chênh hơn trước.  
+
   
 Không còn nợ nần kéo chân.  
 Chi tiêu thường ngày cũng đã có thể tự đứng bằng đôi chân của nó.  
@@ -186,7 +187,7 @@ Thế nên ở giai đoạn này, tiền không còn chỉ để cất giữ.
 Mà cần được đặt vào những nơi đủ vững vàng để giữ giá trị của nó theo thời gian.  
 Có thể là những tài sản tài chính an toàn.  
 Những thứ không hào nhoáng.  
-Không hứa hẹn giàu nhanh, thậm chí là rất chậm và hiệu suất đầu tư rất ít
+Không hứa hẹn giàu nhanh, thậm chí là hiệu suất đầu tư là rất thấp
 Không tạo cảm giác phấn khích.  
 Nhưng có khả năng giúp phần công sức lao động của mình không bị âm thầm nhẹ đi qua năm tháng.  
   
@@ -195,6 +196,7 @@ Mà là bước để tự bảo vệ những gì mình đã tạo ra.
 
 ----
 <p id="khong-bo-lo-co-hoi"><strong>Không bỏ lỡ cơ hội.</strong></p>
+
 Và rồi đến tầng cuối cùng.  
 Theo mình, cũng là tầng thú vị nhất.  
   
@@ -236,15 +238,15 @@ Nó mua quyền được thử.
 Quyền được sai.  
 Quyền được học bằng trải nghiệm thật, thay vì chỉ đứng ngoài quan sát.  
   
-**Không phải để đánh cược cả cuộc đời.**  
-  
-Chỉ là luôn giữ cho mình một phần nhỏ đủ linh hoạt, để khi một điều gì đó mới mẻ xuất hiện, mình không phải chỉ đứng nhìn nó đi qua.
+**Không phải để đánh cược cả cuộc đời.** Chỉ là luôn giữ cho mình một phần nhỏ đủ linh hoạt, để khi một điều gì đó mới mẻ xuất hiện, mình không phải chỉ đứng nhìn nó đi qua.
 
 > **Những cơ hội thực sự khác biệt thường trông hơi kỳ quặc ở thời điểm ban đầu.**
+
 
 ---
 
 Nghĩ cho cùng, tài chính cá nhân có lẽ không phức tạp đến vậy.
+
 **Không nợ** → sống sót  
 **Không đói** → tự nuôi mình  
 **Không biến cố** → chống cú sốc  
