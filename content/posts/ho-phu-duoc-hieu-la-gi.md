@@ -1,6 +1,6 @@
 ---
 title: Hổ Phụ được hiểu là gì
-date: 2026-05-24
+date: 2026-05-23
 tags:
   - writing
   - reflection

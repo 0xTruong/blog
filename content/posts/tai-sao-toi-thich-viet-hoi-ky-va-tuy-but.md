@@ -1,8 +1,12 @@
 ---
-title: "Tại sao tôi thích viết hồi ký và tuỳ bút"
-date: 2026-05-23
-tags: ["writing", "memoir", "reflection"]
-categories: ["writing"]
+title: Tại sao tôi thích viết hồi ký và tuỳ bút
+date: 2026-05-22
+tags:
+  - writing
+  - memoir
+  - reflection
+categories:
+  - writing
 ---
 
 Người ta hay bảo: muốn sống có kỷ luật thì viết nhật ký. Tôi nghe cũng thấy đúng. Nhưng tôi có một vấn đề rất lạ: tôi không giỏi sống theo dạng… ngày tháng.

@@ -19,15 +19,15 @@ Nếu bạn muốn biết thêm tôi là ai: [Đọc ở đây]({{< ref "about.m
 Tôi thích viết vớ va vớ vẩn, để khi nào tôi rảnh, tôi sẽ đọc lại và nhận ra: đúng là lúc đó mình tào lao thật
 
 - [Tại sao tôi thích viết hồi ký và tuỳ bút thay vì nhật ký]({{< ref "tai-sao-toi-thich-viet-hoi-ky-va-tuy-but.md" >}})
-- [Hổ Phụ là gì?]({{< ref "ho_phu_duoc_hieu_la_gi.md" >}})
+- [Hổ Phụ là gì?]({{< ref "ho-phu-duoc-hieu-la-gi.md" >}})
 
 ---
 
-## Đầu Tư
+## Tài Chính và Đầu Tư
 
 Kiến thức, kinh nghiệm và đúc kết của bản thân xoay quanh đến việc đầu tư, phần bổ vốn, lối sống tài chính
 
-- Coming soon
+- [Tài Chính Cá Nhân - Đơn Giản Hoá]({{< ref "tai-chinh-ca-nhan-don-gian-hoa.md" >}})
 
 ---
 
