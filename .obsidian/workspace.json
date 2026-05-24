@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/ho_phu_duoc_hieu_la_gi.md",
+                "file": "content/start-here.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ho_phu_duoc_hieu_la_gi"
+              "title": "start-here"
             }
           }
         ]
@@ -182,9 +182,9 @@
   },
   "active": "3444aff8b23524e0",
   "lastOpenFiles": [
-    "content/posts/tai-sao-toi-thich-viet-hoi-ky-va-tuy-but.md",
-    "content/posts/ho_phu_duoc_hieu_la_gi.md",
     "content/about.md",
+    "content/posts/ho_phu_duoc_hieu_la_gi.md",
+    "content/posts/tai-sao-toi-thich-viet-hoi-ky-va-tuy-but.md",
     "content/start-here.md",
     "public/js/coder.js",
     "public/css/coder-dark.css",
