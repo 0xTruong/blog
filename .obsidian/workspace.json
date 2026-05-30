@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/chang-ai-song-bang-gia-vi.md",
-                "mode": "source",
+                "file": "content/start-here.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "chang-ai-song-bang-gia-vi"
+              "title": "start-here"
             }
           }
         ]
@@ -182,8 +182,8 @@
   },
   "active": "3444aff8b23524e0",
   "lastOpenFiles": [
-    "content/posts/ho-phu-duoc-hieu-la-gi.md",
     "content/posts/chang-ai-song-bang-gia-vi.md",
+    "content/posts/ho-phu-duoc-hieu-la-gi.md",
     "content/start-here.md",
     "content/posts/tai-chinh-ca-nhan-don-gian-hoa.md",
     "content/posts/tai-sao-toi-thich-viet-hoi-ky-va-tuy-but.md",
