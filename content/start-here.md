@@ -18,6 +18,7 @@ Nếu bạn muốn biết thêm tôi là ai: [Đọc ở đây]({{< ref "about.m
 
 Tôi thích viết vớ va vớ vẩn, để khi nào tôi rảnh, tôi sẽ đọc lại và nhận ra: đúng là lúc đó mình tào lao thật
 
+- [Reflections]({{< ref "reflections.md" >}})
 - [Tại sao tôi thích viết hồi ký và tuỳ bút]({{< ref "tai-sao-toi-thich-viet-hoi-ky-va-tuy-but.md" >}})
 - [Hổ Phụ là gì?]({{< ref "ho-phu-duoc-hieu-la-gi.md" >}})
 - [Chẳng Ai Sống Bằng Gia Vị]({{< ref "chang-ai-song-bang-gia-vi.md" >}})
