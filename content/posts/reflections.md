@@ -7,8 +7,11 @@ categories:
   - writing
 ---
 *Một bộ sưu tập những suy nghĩ, quan sát và kết nối mà tôi tiếp tục bổ sung theo thời gian. Bài viết này không có điểm kết thúc*
+- **[Reflections Là Gì?](#reflections-la-gi)**
+- **[Ước Mơ!](#uoc-mo)**
 
 ----
+<p id="reflections-la-gi"><strong>Reflections là gì?.</strong></p>
 
 Có những cuốn sách mình đã đọc từ rất lâu. Lâu đến mức bây giờ, nếu ai hỏi về cốt truyện, có lẽ mình chỉ nhớ được vài mảnh vụn. Có những bộ phim từng xem rất say mê, vậy mà tên nhân vật cũng đã lẫn vào đâu đó cùng năm tháng.
 
@@ -37,3 +40,16 @@ Có thể vài năm nữa, mình sẽ đọc lại cùng một cuốn sách và 
 Vì thế, bài viết này sẽ không bao giờ có điểm kết. Mỗi cuốn sách, mỗi bộ phim, mỗi câu chuyện mình gặp trên đường đời có thể sẽ để lại thêm một mảnh ghép mới, hoặc khiến mình lặng lẽ sửa đi một mảnh ghép cũ. Và biết đâu, sau rất nhiều năm nữa, khi nhìn lại tấm bản đồ ấy, mình sẽ hiểu rõ hơn không chỉ những tác phẩm mình từng yêu quý, mà còn hiểu rõ hơn chính mình.
 
 -----
+<p id="uoc-mo"><strong>Ước Mơ!</strong></p>
+Điều khiến mình nhớ nhất sau khi khép lại tác phẩm Của Người và chuột không phải là những biến cố trong câu chuyện, mà là cách George và Lennie nói về ước mở của họ: mảnh đất và trang trại riêng của họ. 
+
+Họ nhắc đến nó nhiều lần, đến mức mình có cảm giác nơi ấy thật sự đã tồn tại. Một mảnh đất không lớn, vài luống rau, mấy con thỏ, một căn nhà nhỏ... Những chi tiết ấy được lặp đi lặp lại, không phải vì Steinbeck muốn kể cho người đọc nghe về một mảnh đất, mà vì đó là cách hai con người giữ cho mình một lý do để tiếp tục bước qua những ngày tháng nhọc nhằn.
+
+Đọc đến đó, mình chợt nghĩ có lẽ **một ước mơ chỉ thực sự có sức mạnh khi nó đủ rõ ràng**. Không phải chỉ là mong muốn "một ngày nào đó mình sẽ hạnh phúc" hay "mình sẽ thành công", mà là có thể hình dung được hạnh phúc ấy trông ra sao. 
+
+Biết buổi sáng sẽ thức dậy ở đâu, căn phòng sẽ đón ánh nắng thế nào, mình sẽ làm công việc gì, ngồi đọc sách ở góc nào, hay tiếng gió sẽ thổi qua khu vườn ra sao. Khi những điều ấy hiện lên đủ rõ trong tâm trí, ước mơ dường như thôi không còn là một ý niệm xa xôi. Nó trở thành một nơi chốn mà mình vẫn thường xuyên lui tới, dù chỉ bằng trí tưởng tượng.
+
+Có lẽ vì vậy mà mỗi lần George kể lại giấc mơ ấy, mình không thấy đó là một sự lặp lại. Mình thấy đó là một cách để giữ cho ngọn lửa không tắt. Mỗi lần kể, họ lại sống thêm một lần trong tương lai mà mình hằng mong muốn. Và biết đâu, chính việc được sống cùng tương lai ấy đã khiến hiện tại trở nên dễ đi qua hơn.
+
+Điều còn ở lại trong mình sau **_Của Người và chuột_** không phải là niềm tin rằng mọi ước mơ rồi sẽ thành hiện thực. Điều còn ở lại là cảm giác rằng con người đôi khi cần một giấc mơ đủ cụ thể để nương tựa. Không phải để trốn khỏi thực tại, mà để mỗi việc mình làm hôm nay đều biết mình đang hướng về đâu.
+
