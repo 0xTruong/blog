@@ -41,7 +41,7 @@ Vì thế, bài viết này sẽ không bao giờ có điểm kết. Mỗi cuố
 
 -----
 <p id="uoc-mo"><strong>Ước Mơ!</strong></p>
-Điều khiến mình nhớ nhất sau khi khép lại tác phẩm Của Người và chuột không phải là những biến cố trong câu chuyện, mà là cách George và Lennie nói về ước mở của họ: mảnh đất và trang trại riêng của họ. 
+Điều khiến mình nhớ nhất sau khi khép lại tác phẩm Của Người và chuột không phải là những biến cố trong câu chuyện, mà là cách George và Lennie nói về ước mơ của họ: mảnh đất và trang trại riêng. 
 
 Họ nhắc đến nó nhiều lần, đến mức mình có cảm giác nơi ấy thật sự đã tồn tại. Một mảnh đất không lớn, vài luống rau, mấy con thỏ, một căn nhà nhỏ... Những chi tiết ấy được lặp đi lặp lại, không phải vì Steinbeck muốn kể cho người đọc nghe về một mảnh đất, mà vì đó là cách hai con người giữ cho mình một lý do để tiếp tục bước qua những ngày tháng nhọc nhằn.
 
