@@ -41,15 +41,14 @@ Vì thế, bài viết này sẽ không bao giờ có điểm kết. Mỗi cuố
 
 -----
 <p id="uoc-mo"><strong>Ước Mơ!</strong></p>
-Điều khiến mình nhớ nhất sau khi khép lại tác phẩm Của Người và chuột không phải là những biến cố trong câu chuyện, mà là cách George và Lennie nói về ước mơ của họ: mảnh đất và trang trại riêng. 
+Khép lại những trang văn _Của Chuột và Người_, điều ám ảnh tôi đến tận cùng không phải là bi kịch nghiệt ngã của số phận, mà là thanh âm của những giấc mơ. Cách George và Lennie thì thầm về một mảnh đất, về trang trại của riêng họ, chân thực và đau đáu đến mức tôi ngỡ như mình có thể chạm tay vào nhúm đất tơi xốp ấy.
 
-Họ nhắc đến nó nhiều lần, đến mức mình có cảm giác nơi ấy thật sự đã tồn tại. Một mảnh đất không lớn, vài luống rau, mấy con thỏ, một căn nhà nhỏ... Những chi tiết ấy được lặp đi lặp lại, không phải vì Steinbeck muốn kể cho người đọc nghe về một mảnh đất, mà vì đó là cách hai con người giữ cho mình một lý do để tiếp tục bước qua những ngày tháng nhọc nhằn.
+Vài luống rau, bầy thỏ mềm mại, một mái nhà che nắng che mưa… Steinbeck không vẽ ra một bức tranh điền viên để làm vui lòng độc giả. Ông lặp đi lặp lại những huyễn cảnh ấy bởi đó là chiếc mỏ neo duy nhất giữ cho hai linh hồn khốn khổ không bị cuốn phăng vào hố sâu của những tháng ngày làm lụng nhọc nhằn, vô thủy vô chung.
 
-Đọc đến đó, mình chợt nghĩ có lẽ **một ước mơ chỉ thực sự có sức mạnh khi nó đủ rõ ràng**. Không phải chỉ là mong muốn "một ngày nào đó mình sẽ hạnh phúc" hay "mình sẽ thành công", mà là có thể hình dung được hạnh phúc ấy trông ra sao. 
+Từ những lời thì thầm của George, tôi nhận ra rằng: **hình hài của một giấc mơ chỉ thực sự cất tiếng khi nó đủ trần trụi và tường minh**.
 
-Biết buổi sáng sẽ thức dậy ở đâu, căn phòng sẽ đón ánh nắng thế nào, mình sẽ làm công việc gì, ngồi đọc sách ở góc nào, hay tiếng gió sẽ thổi qua khu vườn ra sao. Khi những điều ấy hiện lên đủ rõ trong tâm trí, ước mơ dường như thôi không còn là một ý niệm xa xôi. Nó trở thành một nơi chốn mà mình vẫn thường xuyên lui tới, dù chỉ bằng trí tưởng tượng.
+Không phải là những mỹ từ sáo rỗng như _"rồi một ngày mình sẽ hạnh phúc"_ hay _"mình sẽ thành công"_. Mộng tưởng phải là thứ ta có thể ngửi thấy mùi hương, có thể mường tượng được tia nắng mai sẽ xiên qua khe cửa sổ góc phòng nào, ta sẽ ngồi đọc sách ở đâu, hay tiếng gió xạc xào trong khu vườn ra sao. Khi ấy, ước mơ thôi không còn là ảo ảnh xa xăm nơi chân trời. Nó hóa thành một chốn nương thân thực sự trong tâm tưởng, một ngôi nhà tàng hình mà ta luôn có thể tìm về để trú ngụ.
 
-Có lẽ vì vậy mà mỗi lần George kể lại giấc mơ ấy, mình không thấy đó là một sự lặp lại. Mình thấy đó là một cách để giữ cho ngọn lửa không tắt. Mỗi lần kể, họ lại sống thêm một lần trong tương lai mà mình hằng mong muốn. Và biết đâu, chính việc được sống cùng tương lai ấy đã khiến hiện tại trở nên dễ đi qua hơn.
+Mỗi lần George họa lại giấc mơ cho Lennie nghe, đó không phải là sự luyến láy tuyệt vọng. Đó là nghi thức thắp lửa. Họ đang trót vay mượn hơi ấm của tương lai để ủ ấm cho một hiện tại quá đỗi rã rời. Giây phút họ đắm chìm vào mường tượng ấy, sự khắc nghiệt của thực tại bỗng chốc trở nên dễ dàng để bước qua hơn.
 
-Điều còn ở lại trong mình sau **_Của Người và chuột_** không phải là niềm tin rằng mọi ước mơ rồi sẽ thành hiện thực. Điều còn ở lại là cảm giác rằng con người đôi khi cần một giấc mơ đủ cụ thể để nương tựa. Không phải để trốn khỏi thực tại, mà để mỗi việc mình làm hôm nay đều biết mình đang hướng về đâu.
-
+Sau cùng, dư vị của _Của Chuột và Người_ để lại trong tôi chẳng phải là đức tin ngây thơ rằng mọi ước mơ rồi sẽ đơm hoa kết trái. Nó để lại một tiếng thở dài thấu hiểu: **Con người đôi khi cần một huyễn cảnh đủ chi tiết để bấu víu.** Không phải để trốn chạy thực tại, mà để giữa cuộc viễn hành mịt mù này, mỗi việc ta làm hôm nay, ta đều biết đôi chân mình đang bước về phía nào của ánh sáng.
